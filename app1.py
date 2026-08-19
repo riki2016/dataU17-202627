@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import os
 
 st.set_page_config(page_title="Dashboard Weekly Performance", layout="wide")
-st.title("Weekly Training + Test vs League Match U16")
+st.title("Weekly Training + Test vs League Match U17")
 
 # ================== 1. CARICAMENTO FILE ==================
 PATH_FILE = "Dataset_combinato_GPS_finale.xlsx"  # file in the same directory
