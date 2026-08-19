@@ -6,7 +6,7 @@ import os
 
 st.set_page_config(page_title="Dashboard Performance Atletica", layout="wide")
 
-st.title("Dashboard Performance Atletica U16")
+st.title("Dashboard Performance Atletica U17")
 
 # ================== 1. CARICAMENTO FILE ==================
 PATH_FILE = "Dataset_combinato_GPS_finale.xlsx"
